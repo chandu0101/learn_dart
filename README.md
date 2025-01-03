@@ -6,4 +6,5 @@
 - [ ] https://www.youtube.com/watch?v=5rtujDjt50I&list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q
 - [ ] https://www.youtube.com/watch?v=YUANhchdQwI
 - [ ] https://www.youtube.com/watch?v=Ej_Pcr4uC2Q&t=245s
+- [ ] https://dinkomarinac.dev/?source=top_nav_blog_home
 - [ ] [https://www.youtube.com/watch?v=hnNJXOXiURo](Chapter7 AdvancedDartFree Flutter Course)
